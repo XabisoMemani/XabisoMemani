@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://xabiso.vercel.app/images/xabi.png" alt="Xabiso Memani" width="70"/>
+  <img src="https://xabiso.vercel.app/images/xabi.png" alt="Xabiso Memani" width="60"/>
 </div>
 
 <div align="center">
@@ -43,7 +43,7 @@ Right now I'm focusing on cloud infrastructure and backend architecture, includi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xabiso)
 [![Portfolio](https://img.shields.io/badge/Portfolio-a7c08b?style=for-the-badge&logo=nixos&logoColor=black)](https://xabiso.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deus4l
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deus4l)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 </div>
