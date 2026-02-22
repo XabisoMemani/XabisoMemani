@@ -8,7 +8,7 @@
 
 ---
 
-I recently completed my **BSc Information Technology (Computer Science & Informatics)** from the University of Johannesburg. Interested in building solutions to solve real world problems. I share what I'm building here and I'm always open to connecting.
+I recently completed my **BSc Information Technology (Computer Science & Informatics)** from the University of Johannesburg. Interested in building scalable solutions that solve real world problems. I share what I'm building here and I'm always open to connecting.
 
 ## Tech Stack
 
@@ -26,7 +26,6 @@ I recently completed my **BSc Information Technology (Computer Science & Informa
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -42,9 +41,9 @@ Right now I'm focusing on cloud infrastructure and backend architecture, includi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xabiso-memani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xabiso)
 [![Portfolio](https://img.shields.io/badge/Portfolio-a7c08b?style=for-the-badge&logo=nixos&logoColor=black)](https://xabiso.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xabisomemani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deus4l
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 </div>
